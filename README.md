@@ -38,6 +38,12 @@ Nergiz ist ein Token, der auf der Binance Smart Chain (BSC) basiert.
 
 ![alt text](https://i.imgur.com/RRxfZcn.png)
 
-7. Kopiere die erstellte Smart Contract Adresse und fuege sie hier ein: https://bscscan.com/.
+7. Fertig. Kopiere die erstellte Smart Contract Adresse und fuege sie hier ein um dein Token auf der Mainnet Blockchain zu sehen: https://bscscan.com/.
 
 ![alt text](https://i.imgur.com/JUhk2LD.png)
+
+8. Die 1 Millarden Tokens befinden sich in deiner Metamask Wallet. Klicke auf Token Hinzufuegen und gib die Smart Contract Adresse an. Klick auf weiter und du solltest nun 1 Milliarde Nergiz Tokens in deiner Wallet sehen:
+
+![alt text](https://i.imgur.com/2xqnZVv.png)
+
+![alt text](https://i.imgur.com/zRCQQDd.png)
