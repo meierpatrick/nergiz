@@ -6,3 +6,5 @@ Nergiz is a token built on the Binance Smart Chain (BSC) network. It has advance
 - Symbol - NGZ
 - Decimals - 9
 - Total supply - 1,000,000,000 NGZ
+
+#### Testnet: https://testnet.bscscan.com/token/0x5436eA294Be29Af835c7686e60f30Dc7A9a0f4D6
